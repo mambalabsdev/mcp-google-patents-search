@@ -1,0 +1,35 @@
+{
+  "name": "mcp-google-patents-search",
+  "displayName": "Google Patents Search",
+  "version": "1.0.0",
+  "description": "MCP server for Google Patents Search: patents by keyword, assignee, inventor, and date from Google Patents.",
+  "author": {
+    "name": "Mamba Labs",
+    "email": "labs@mambamindsetgrowth.com"
+  },
+  "homepage": "https://mambabuilt.com",
+  "repository": "https://github.com/mambalabsdev/mcp-google-patents-search",
+  "license": "MIT",
+  "category": "productivity",
+  "tags": [
+    "google-patents",
+    "patents",
+    "patent-search",
+    "prior-art",
+    "scraper",
+    "apify",
+    "mcp"
+  ],
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "google-patents",
+    "patents",
+    "patent-search",
+    "prior-art",
+    "scraper",
+    "apify",
+    "mcp"
+  ],
+  "mcpServers": ".mcp.json"
+}

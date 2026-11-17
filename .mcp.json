@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mamba-google-patents-search": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mambalabsdev/mcp-google-patents-search"
+      ],
+      "env": {
+        "APIFY_TOKEN": "your-apify-token"
+      }
+    }
+  }
+}
