@@ -1,7 +1,7 @@
 {
   "name": "mcp-google-patents-search",
   "displayName": "Google Patents Search",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for Google Patents Search: patents by keyword, assignee, inventor, and date from Google Patents.",
   "author": {
     "name": "Mamba Labs",
